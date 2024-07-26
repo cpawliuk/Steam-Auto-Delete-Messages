@@ -10,7 +10,7 @@ Script has only been tested in Chrome.
 
 The script will auto forward you to page 1 if you're on the posthistory page.
 
-When loading the script you'll have two input fields, one is for a Min Page and the other is for a Max Page. By default the Max Page value will be + 9 of the Min Page value, you can however set it higher.
+When loading the script you'll have two input fields, one is for a Min Page (this will always be your current page) and the other is for a Max Page. By default the Max Page value will be + 9 of the Min Page value, you can however set it higher.
 
 There will be an option to click a Reset button, this will clear your localStorage.
 
